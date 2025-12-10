@@ -1,0 +1,59 @@
+[0.007s] Invoking command in '/home/clearcash/Documents/Articubot/build/my_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/clearcash/Documents/Articubot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/clearcash/Documents/Articubot/install/my_bot
+[0.167s] -- The C compiler identification is GNU 13.3.0
+[0.986s] -- The CXX compiler identification is GNU 13.3.0
+[1.858s] -- Detecting C compiler ABI info
+[2.159s] -- Detecting C compiler ABI info - done
+[2.164s] -- Check for working C compiler: /usr/bin/cc - skipped
+[2.164s] -- Detecting C compile features
+[2.165s] -- Detecting C compile features - done
+[2.299s] -- Detecting CXX compiler ABI info
+[2.660s] -- Detecting CXX compiler ABI info - done
+[2.666s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[2.666s] -- Detecting CXX compile features
+[2.666s] -- Detecting CXX compile features - done
+[2.668s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[2.763s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[2.814s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.841s] -- Found ament_lint_auto: 0.17.2 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[2.927s] -- Added test 'copyright' to check source files copyright and LICENSE
+[2.930s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[2.930s] -- Configured cppcheck include dirs: 
+[2.930s] -- Configured cppcheck exclude dirs and/or files: 
+[2.934s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[2.934s] -- Configured cpplint exclude dirs and/or files: 
+[2.935s] -- Added test 'flake8' to check Python code syntax and style conventions
+[2.935s] -- Configured 'flake8' exclude dirs and/or files: 
+[2.937s] -- Added test 'lint_cmake' to check CMake code style
+[2.938s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[2.941s] -- Added test 'uncrustify' to check C / C++ code style
+[2.941s] -- Configured uncrustify additional arguments: 
+[2.942s] -- Added test 'xmllint' to check XML markup files
+[2.944s] -- Configuring done (2.9s)
+[2.948s] -- Generating done (0.0s)
+[2.949s] -- Build files have been written to: /home/clearcash/Documents/Articubot/build/my_bot
+[2.952s] Invoked command in '/home/clearcash/Documents/Articubot/build/my_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake /home/clearcash/Documents/Articubot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/clearcash/Documents/Articubot/install/my_bot
+[2.953s] Invoking command in '/home/clearcash/Documents/Articubot/build/my_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/clearcash/Documents/Articubot/build/my_bot -- -j16 -l16
+[2.973s] Invoked command in '/home/clearcash/Documents/Articubot/build/my_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/clearcash/Documents/Articubot/build/my_bot -- -j16 -l16
+[2.979s] Invoking command in '/home/clearcash/Documents/Articubot/build/my_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/clearcash/Documents/Articubot/build/my_bot
+[2.983s] -- Install configuration: ""
+[2.983s] -- Execute custom install script
+[2.984s] -- Symlinking: /home/clearcash/Documents/Articubot/install/my_bot/share/my_bot/config/empty.yaml
+[2.989s] -- Symlinking: /home/clearcash/Documents/Articubot/install/my_bot/share/my_bot/description/robot.urdf.xacro
+[2.994s] -- Symlinking: /home/clearcash/Documents/Articubot/install/my_bot/share/my_bot/launch/rsp.launch.py
+[2.999s] -- Symlinking: /home/clearcash/Documents/Articubot/install/my_bot/share/my_bot/worlds/empty.world
+[3.004s] -- Symlinking: /home/clearcash/Documents/Articubot/install/my_bot/share/ament_index/resource_index/package_run_dependencies/my_bot
+[3.010s] -- Symlinking: /home/clearcash/Documents/Articubot/install/my_bot/share/ament_index/resource_index/parent_prefix_path/my_bot
+[3.015s] -- Symlinking: /home/clearcash/Documents/Articubot/install/my_bot/share/my_bot/environment/ament_prefix_path.sh
+[3.020s] -- Symlinking: /home/clearcash/Documents/Articubot/install/my_bot/share/my_bot/environment/ament_prefix_path.dsv
+[3.025s] -- Symlinking: /home/clearcash/Documents/Articubot/install/my_bot/share/my_bot/environment/path.sh
+[3.029s] -- Symlinking: /home/clearcash/Documents/Articubot/install/my_bot/share/my_bot/environment/path.dsv
+[3.035s] -- Symlinking: /home/clearcash/Documents/Articubot/install/my_bot/share/my_bot/local_setup.bash
+[3.040s] -- Symlinking: /home/clearcash/Documents/Articubot/install/my_bot/share/my_bot/local_setup.sh
+[3.045s] -- Symlinking: /home/clearcash/Documents/Articubot/install/my_bot/share/my_bot/local_setup.zsh
+[3.050s] -- Symlinking: /home/clearcash/Documents/Articubot/install/my_bot/share/my_bot/local_setup.dsv
+[3.055s] -- Symlinking: /home/clearcash/Documents/Articubot/install/my_bot/share/my_bot/package.dsv
+[3.061s] -- Symlinking: /home/clearcash/Documents/Articubot/install/my_bot/share/ament_index/resource_index/packages/my_bot
+[3.066s] -- Symlinking: /home/clearcash/Documents/Articubot/install/my_bot/share/my_bot/cmake/my_botConfig.cmake
+[3.071s] -- Symlinking: /home/clearcash/Documents/Articubot/install/my_bot/share/my_bot/cmake/my_botConfig-version.cmake
+[3.077s] -- Symlinking: /home/clearcash/Documents/Articubot/install/my_bot/share/my_bot/package.xml
+[3.083s] Invoked command in '/home/clearcash/Documents/Articubot/build/my_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/clearcash/Documents/Articubot/build/my_bot

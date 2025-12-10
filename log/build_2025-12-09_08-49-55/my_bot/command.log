@@ -1,0 +1,4 @@
+Invoking command in '/home/clearcash/Documents/Articubot/build/my_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/clearcash/Documents/Articubot/build/my_bot -- -j16 -l16
+Invoked command in '/home/clearcash/Documents/Articubot/build/my_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --build /home/clearcash/Documents/Articubot/build/my_bot -- -j16 -l16
+Invoking command in '/home/clearcash/Documents/Articubot/build/my_bot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/clearcash/Documents/Articubot/build/my_bot
+Invoked command in '/home/clearcash/Documents/Articubot/build/my_bot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy /usr/bin/cmake --install /home/clearcash/Documents/Articubot/build/my_bot
