@@ -1,1 +1,1 @@
-/home/clearcash/Documents/Articubot/build/my_bot/ament_cmake_core/my_botConfig.cmake
+/home/clearcash/Articubot/build/my_bot/ament_cmake_core/my_botConfig.cmake

@@ -59,8 +59,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/home/clearcash/Documents/Articubot/build/my_bot",
-		"source" : "/home/clearcash/Documents/Articubot"
+		"build" : "/home/clearcash/Articubot/build/my_bot",
+		"source" : "/home/clearcash/Articubot"
 	},
 	"version" : 
 	{

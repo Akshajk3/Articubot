@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/clearcash/Documents/Articubot
+CMAKE_SOURCE_DIR = /home/clearcash/Articubot
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/clearcash/Documents/Articubot/build/my_bot
+CMAKE_BINARY_DIR = /home/clearcash/Articubot/build/my_bot
 
 # Utility rule file for uninstall.
 
@@ -78,6 +78,6 @@ CMakeFiles/uninstall.dir/clean:
 .PHONY : CMakeFiles/uninstall.dir/clean
 
 CMakeFiles/uninstall.dir/depend:
-	cd /home/clearcash/Documents/Articubot/build/my_bot && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/clearcash/Documents/Articubot /home/clearcash/Documents/Articubot /home/clearcash/Documents/Articubot/build/my_bot /home/clearcash/Documents/Articubot/build/my_bot /home/clearcash/Documents/Articubot/build/my_bot/CMakeFiles/uninstall.dir/DependInfo.cmake "--color=$(COLOR)"
+	cd /home/clearcash/Articubot/build/my_bot && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/clearcash/Articubot /home/clearcash/Articubot /home/clearcash/Articubot/build/my_bot /home/clearcash/Articubot/build/my_bot /home/clearcash/Articubot/build/my_bot/CMakeFiles/uninstall.dir/DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/uninstall.dir/depend
 

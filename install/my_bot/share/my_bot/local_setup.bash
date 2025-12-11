@@ -1,1 +1,1 @@
-/home/clearcash/Documents/Articubot/build/my_bot/ament_cmake_environment_hooks/local_setup.bash
+/home/clearcash/Articubot/build/my_bot/ament_cmake_environment_hooks/local_setup.bash
